@@ -45,3 +45,7 @@ The only changes that are done to `_s` are in:
 1. `'/sass/style.scss'` So foundation sass is loaded.
 2. `'/functions.php'` so modernizr.js, fastclick.js and foundation.js are loaded.
 
+References:
+----------------
+* Underscores http://underscores.me/, (C) 2012-2015 Automattic, Inc.
+* Zurb Foundation http://foundation.zurb.com/, (C) 1998‐2015 ZURB, Inc.

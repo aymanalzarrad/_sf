@@ -1,0 +1,6 @@
+# Some commons
+.idea
+.DS_Store
+.sass-cache
+node_modules
+
